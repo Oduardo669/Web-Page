@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Documento XML generado por C#.-->
 <VERSIONES>
-  <VersionApp>1.2.0.0</VersionApp>
-  <VersionAct>1.2.0.0</VersionAct>
+  <VersionApp>1.0.0.0</VersionApp>
+  <VersionAct>1.0.0.0</VersionAct>
   <UrlApp>https://oduardo669.github.io/Paqueteria.exe</UrlApp>
   <UrlAct>https://oduardo669.github.io/ActPaqueteria.exe</UrlAct>
 </VERSIONES>
